@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 void print(vector<vector<int>>solution,int rows,int columns){
   cout<<"===============\n";
   for(int i=0;i<=rows;i++){
